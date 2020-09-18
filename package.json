@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jazmandorf/web-shop/issues"
   },
-  "homepage": "https://github.com/jazmandorf/web-shop#readme"
+  "homepage": "https://github.com/jazmandorf/web-shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
